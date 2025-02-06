@@ -13,10 +13,6 @@ In this lab I perform a MAC Flooding Attack using macof and observe the packets 
 
 <p align="center">
 macof commands: <br/>
-<img src="https://imgur.com/a/macof-commands-TWFl7W1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lh0FGY1.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
